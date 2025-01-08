@@ -1,3 +1,4 @@
+![logo](https://github.com/Shivamk748/Shivamk748/blob/main/SHIVAM%20(1).png)_
 <h1 align="center">Hi 👋, I'm SHIVAM</h1>
 <h3 align="center"> A Passionate Data Analyst from India .</h3>
 
