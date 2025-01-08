@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHIVAM</h1>
 <h3 align="center"> A Passionate Data Analyst from India .</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*tD5kEC2JYcKHH0zO.gif">
+<img align="right" alt="coding" width="600" height="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*tD5kEC2JYcKHH0zO.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamk748&label=Profile%20views&color=0e75b6&style=flat" alt="shivamk748" /> </p>
 
